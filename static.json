@@ -1,6 +1,6 @@
 {
   "headers": {
-    "/*" {
+    "/*": {
       "X-Author": "sleepwalkergg",
       "Access-Control-Allow-Origin": "*"
           }
